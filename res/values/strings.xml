@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ERTOpen.com</string>
+    
+    <string name="playbar_button_stop">Stop</string>
+    <string name="playbar_button_start">start</string>
+    <string name="playbar_text_idle">Not conencted</string>
+    
+    <string name="tabbar_title_streams">Not conencted</string>
+    <string name="tabbar_title_news">News</string>
+    <string name="tabbar_title_chatter">Chatter</string>
+    <string name="tabbar_title_ertopen">ERTOpen.com</string>
+    
+    <string name="streams_list">ERA (EBU/hetzner)|http://193.43.93.230:8000/era.mp3||NET (EBU/akamai)|http://ebu_ios-i.akamaihd.net/hls/live/214400/ert/master.m3u8</string>
+
+</resources>

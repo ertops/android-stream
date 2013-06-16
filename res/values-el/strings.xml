@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ανοιχτή ΕΡΤ</string>
+
+    <string name="playbar_text_idle">Μή συνδεμένο</string>
+    
+    
+    <string name="tabbar_title_streams">Κανάλια</string>
+    <string name="tabbar_title_news">Νέα</string>
+    <string name="tabbar_title_chatter">Διάλογος</string>
+    
+</resources>
