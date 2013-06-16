@@ -5,9 +5,9 @@
     
     <string name="playbar_button_stop">Stop</string>
     <string name="playbar_button_start">start</string>
-    <string name="playbar_text_idle">Not conencted</string>
+    <string name="playbar_text_idle">Not connected</string>
     
-    <string name="tabbar_title_streams">Not conencted</string>
+    <string name="tabbar_title_streams">Not connected</string>
     <string name="tabbar_title_news">News</string>
     <string name="tabbar_title_chatter">Chatter</string>
     <string name="tabbar_title_ertopen">ERTOpen.com</string>
